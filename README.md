@@ -1,16 +1,14 @@
 ## Hi there 👋
+My name is Marissa Aragon. I am a current computer science student at Western Governors University. I am a passionate software developer with a strong interest in machine learning and data science. I enjoy working on projects that solve real-world problems.
 
-<!--
-**marissaaragon/marissaaragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Programming Languages:** Python, Java, JavaScript
+- **Frameworks:** Flask, Spring
+- **Tools:** Git, Docker, MySQL, Jupyter, Pandas
 
-Here are some ideas to get you started:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,html,css,python,mysql,jupyter,pandas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning 
+Here are some of the technologies I'm currently focusing on:
+
+![Currently Learning](https://go-skill-icons.vercel.app/api/icons?i=leetcode,aws,cpp)
