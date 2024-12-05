@@ -14,4 +14,4 @@ Here are some of the technologies I'm currently focusing on:
 ![Currently Learning](https://go-skill-icons.vercel.app/api/icons?i=leetcode,aws,cpp)
 
 ## Connect With Me
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/marissa-aragon/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/marissa-aragon-/)
