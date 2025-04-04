@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Marissa Aragon. I am a current computer science student at Western Governors University. I am a passionate software developer with a strong interest in machine learning and data science. I enjoy working on projects that solve real-world problems.
+My name is Marissa Aragon. I have received my bachelor's in computer science from Western Governors University. I enjoy working on projects that solve real-world problems. I will be starting my master's in computer science at the University of Southern California this fall!
 
 ## Skills
 - **Programming Languages:** Python, Java
