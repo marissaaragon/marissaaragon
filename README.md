@@ -2,8 +2,7 @@
 My name is Marissa Aragon. I am a current computer science student at Western Governors University. I am a passionate software developer with a strong interest in machine learning and data science. I enjoy working on projects that solve real-world problems.
 
 ## Skills
-- **Programming Languages:** Python, Java, JavaScript
-- **Frameworks:** Flask, Spring
+- **Programming Languages:** Python, Java
 - **Tools:** Git, Docker, MySQL, Jupyter, Pandas
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,html,css,python,mysql,jupyter,pandas)
